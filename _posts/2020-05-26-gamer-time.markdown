@@ -2,7 +2,7 @@
 layout: post
 title:  "Gamer Time!"
 date:   2020-05-26 23:25:00 -0500
-categories: jekyll update
+categories: mog blog
 ---
 Welcome Gamers this is the first post on this github pages site. I am going to do nothing
 I am a epic gamer, and you should check me out at {{ site.twitter_username }}.
